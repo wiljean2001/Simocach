@@ -1,12 +1,12 @@
 # SIMOCACH
 
 ## Descripción
-This is an app (Only Frontend) that shows data graphs from water quality sensors such as Temperature, TDS, pH and Turbidity obtained from an IOT device and exposing its quality through the opinion given by our AI model.
+Se trata de una aplicación (Sólo Frontend) que muestra gráficos de datos de sensores de calidad del agua como Temperatura, TDS, pH y Turbididad obtenidos de un dispositivo IOT y exponiendo su calidad a través de la opinión dada por nuestro modelo de IA.
 
 
 ## Tecnologías
 
-- **Framework:** Kotlin and Java  
+- **Framework:** Kotlin y Java (Android Studio)  
 - **APi:** Api DJango  
 
 
